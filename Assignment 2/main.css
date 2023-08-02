@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+}
+
+.full-screen {
+    width: 100%;
+    height: 30%;
+}
+.title {
+    font-size: 2em;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+
+.full-screen {
+    display: flex;
+}
+.box {
+    background-color: gray;
+    margin: 10px;
+    border: 1px solid black;
+    width: 33%;
+}
+
+.name {
+    width: 33%;
+    height: 20px;
+    padding: 5px;
+    text-align: center;
+    margin: 0;
+    border: 1px solid black;
+    font-weight: bold;      
+}
+
+#pink {
+    background-color: pink;
+}
+#red {
+    background-color: red;
+}
+#yellow {
+    background-color: yellow;
+}
+
+.description {
+    padding: 10px;
+}
